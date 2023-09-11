@@ -12,7 +12,7 @@ The data is the [NYC Taxi and Limousine Commission Trip Record](https://www1.nyc
 
 ## Requirements
 * python3
-* matplotlib
+* matplotlib 
 * numpy
 * pandas
 * xgboost
