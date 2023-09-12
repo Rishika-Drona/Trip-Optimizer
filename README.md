@@ -2,7 +2,6 @@
 
 For this project, I have tackled the travel time optimization problem for taxi vehicles. This can be framed as the *Traveling Salesman Problem*, a well-known computer science problem. The objective is to find the shortest route that visits a set of locations. For this problem, optimization techniques are required to intelligently search the solution space and find near-optimal solutions. More specifically, I first used XGBoost model to predict travel times between every pair of pick-up and drop-off locations. Then, I used evolutionary algorithms, namely ant colony and genetic, to find the best travel itinerary for the vehicles in the data.
 
-An accompanied blog post on Medium can be found at this link: [Using Ant Colony and Genetic Evolution to Optimize Ride-Sharing Trip Duration](https://towardsdatascience.com/using-ant-colony-and-genetic-evolution-to-optimize-ride-sharing-trip-duration-56194215923f)
 
 ## Dataset
 
